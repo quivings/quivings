@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## LuaU - 3+ years experience
+## LuaU - 2+ years experience
 ## JS - weeks experience
 ## Python - months experience
 
