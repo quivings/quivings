@@ -5,4 +5,4 @@ currently learning: **reverse engineering & memory**
 ## JS - weeks experience
 ## Python - months experience
 
-currently known for creating kohls admin house scripts
+currently known for creating solara
